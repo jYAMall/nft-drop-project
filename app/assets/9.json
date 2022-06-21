@@ -1,0 +1,19 @@
+{
+    "name": "CRAZY_MAN_9",
+    "symbol": "CZMN",
+    "image": "9.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "9.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "2PZ8TxG825ZSYb3NosPRfRhARRRyRSSJJW2V3M14f117",
+          "share": 100
+        }
+      ]
+    }
+  }
